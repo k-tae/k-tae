@@ -33,12 +33,15 @@
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
-  <img src="https://cdn.simpleicons.org/github/black" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
-</picture>
-Github
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+    <img src="https://cdn.simpleicons.org/github/black" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+  </picture>
+  Github
+</h2>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-tae&langs_count=10&layout=compact&theme=dark)](https://github.com/k-tae/k-tae)
