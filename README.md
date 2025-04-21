@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino" />
 <img src="https://img.shields.io/badge/AVR-0A0A0A?style=flat-square&logo=atmel" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
 </p>
 
 ---
