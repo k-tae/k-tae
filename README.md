@@ -15,8 +15,6 @@
 <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square" />
 </p>
 
----
-
 ### 임베디드 시스템 / 하드웨어
 <p>
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics" />
@@ -25,8 +23,6 @@
 <img src="https://img.shields.io/badge/AVR-0A0A0A?style=flat-square&logo=atmel" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
 </p>
-
----
 
 ### 개발 환경 / 툴
 <p>
