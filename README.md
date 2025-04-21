@@ -49,15 +49,7 @@
     <img src="https://static.solved.ac/logo.svg" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
     solved.ac
   </h2>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsxogud012@naver.com">
-  <p>
-    <br>
-    사실 솔브드 레이팅은 정수론으로 날먹한거라 실제 알고리즘 실력은 실골정도 됩니다.
-    <br>
-    실력이 레이팅에 비해 부족해서 지금은 태그 레이팅을 올리고 있습니다.
-    <br>
-    이거 보세요 프로그래밍 언어인 HTML도 못 다뤄서 행간이 좁잖아요.
-  </p>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=pstkdkth012">
 </div>
 
 ---
