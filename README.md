@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
