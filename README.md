@@ -36,7 +36,7 @@
 
 ### 사용 언어 통계
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-tae&layout=compact&theme=transparent)](https://github.com/k-tae/k-tae)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-tae&langs_count=10&layout=compact&theme=dark)](https://github.com/k-tae/k-tae)
 
 ---
 
