@@ -34,7 +34,14 @@
 
 ---
 
+### 사용 언어 통계
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junikang96&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 연락처 
+  - E-mail : rnjsxogud012@naver.com 
 <!--
 **k-tae/k-tae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
