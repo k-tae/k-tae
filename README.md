@@ -33,19 +33,32 @@
 </p>
 
 ---
-<h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
-    <img src="https://cdn.simpleicons.org/github/black" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
-  </picture>
-  Github
-</h2>
-</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-tae&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
+<div>
+  <h2>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+      <img src="https://cdn.simpleicons.org/github/black" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+    </picture>
+    Github
+  </h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-tae&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
-<h2>
+  <h2>
+    <img src="https://static.solved.ac/logo.svg" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+    solved.ac
+  </h2>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsxogud012@naver.com">
+  <p>
+    <br>
+    사실 솔브드 레이팅은 정수론으로 날먹한거라 실제 알고리즘 실력은 실골정도 됩니다.
+    <br>
+    실력이 레이팅에 비해 부족해서 지금은 태그 레이팅을 올리고 있습니다.
+    <br>
+    이거 보세요 프로그래밍 언어인 HTML도 못 다뤄서 행간이 좁잖아요.
+  </p>
+</div>
 
 ---
 
