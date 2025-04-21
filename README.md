@@ -42,7 +42,7 @@
     </picture>
     Github
   </h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-tae&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-tae&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" height="200">
   <h2>
