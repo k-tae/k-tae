@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
 ### 임베디드 시스템 / 하드웨어
